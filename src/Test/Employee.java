@@ -14,6 +14,9 @@ public  class Employee {
 		System.out.println(a);
 		e.empId();
 		
+		System.out.println("dhandapani");
+		System.out.println("myupdate");
+		System.out.println("sounder added");
 	}
 
 }
